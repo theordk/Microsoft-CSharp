@@ -1,0 +1,12 @@
+/Users/theophiletarbe/Projects/TP4/TP4/bin/Debug/netcoreapp3.1/TP4.deps.json
+/Users/theophiletarbe/Projects/TP4/TP4/bin/Debug/netcoreapp3.1/TP4.runtimeconfig.json
+/Users/theophiletarbe/Projects/TP4/TP4/bin/Debug/netcoreapp3.1/TP4.runtimeconfig.dev.json
+/Users/theophiletarbe/Projects/TP4/TP4/bin/Debug/netcoreapp3.1/TP4.dll
+/Users/theophiletarbe/Projects/TP4/TP4/bin/Debug/netcoreapp3.1/TP4.pdb
+/Users/theophiletarbe/Projects/TP4/TP4/obj/Debug/netcoreapp3.1/TP4.csprojAssemblyReference.cache
+/Users/theophiletarbe/Projects/TP4/TP4/obj/Debug/netcoreapp3.1/TP4.AssemblyInfoInputs.cache
+/Users/theophiletarbe/Projects/TP4/TP4/obj/Debug/netcoreapp3.1/TP4.AssemblyInfo.cs
+/Users/theophiletarbe/Projects/TP4/TP4/obj/Debug/netcoreapp3.1/TP4.csproj.CoreCompileInputs.cache
+/Users/theophiletarbe/Projects/TP4/TP4/obj/Debug/netcoreapp3.1/TP4.dll
+/Users/theophiletarbe/Projects/TP4/TP4/obj/Debug/netcoreapp3.1/TP4.pdb
+/Users/theophiletarbe/Projects/TP4/TP4/obj/Debug/netcoreapp3.1/TP4.genruntimeconfig.cache
